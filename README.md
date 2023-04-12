@@ -6,17 +6,17 @@ The repository aims to provide useful information to help people understand the 
 ## **Table of Contents**
 ---
 
-| **Algorithms**               |    | **Data Structures**    |    |
-|------------------------------|----|------------------------|----|
-| **Sorting**                  |    | **Linear**             |    |
-| - Insertion Sort             |    | - Queue                |    |
-| - Selection Sort             |    | - Enqueue              |    |
-| - Bubble Sort                |    | - Deque                |    |
-| - Bucket Sort                |    | - Stack                |    |
-| - Merge Sort                 |    | - Linked-list          |    |
-| **Search**                   |    | **Non-Linear**         |    |
-| - Linear Search              |    | - Trees                |    |
-| - Linear Search (Recursive)  |    | - Binary Tree          |    |
-| - Binary Search              |    | - Heaps                |    |
-| - Binary Search (Recursive)  |    | - Hash                 |    |
-|                              |    | - Graphs               |    |
+| **Algorithms**               |    | **Data Structures**    |    | **Others**    |    |
+|------------------------------|----|------------------------|----|---------------|----|
+| **Sorting**                  |    | **Linear**             |    |               |    |
+| - Insertion Sort             |    | - Queue                |    |               |    |
+| - Selection Sort             |    | - Deque                |    |               |    |
+| - Bubble Sort                |    | - Stack                |    |               |    |
+| - Bucket Sort                |    | - Linked-list          |    |               |    |
+| - Merge Sort                 |    |                        |    |               |    |
+| **Search**                   |    | **Non-Linear**         |    |               |    |
+| - Linear Search              |    | - Trees                |    |               |    |
+| - Linear Search (Recursive)  |    | - Binary Tree          |    |               |    |
+| - Binary Search              |    | - Heaps                |    |               |    |
+| - Binary Search (Recursive)  |    | - Hash                 |    |               |    |
+|                              |    | - Graphs               |    |               |    |

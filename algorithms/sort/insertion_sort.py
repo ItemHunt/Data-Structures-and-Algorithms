@@ -1,4 +1,10 @@
-# Insertion Sort - O(n^2)
+'''
+Insertion Sort - O(n^2)
+
+If you want a video about this algorithm instead, I recommend this video by FelixTechTips
+https://www.youtube.com/watch?v=R_wDA-PmGE4
+'''
+
 def insertion_sort(unordered_list):
     # Initialize an ordered list with the first element from the unordered list
     ordered_list = [unordered_list[0]]

@@ -1,4 +1,10 @@
-# Selection Sort - O(n^2)
+'''
+Selection Sort - O(n^2)
+
+If you want a video about this algorithm instead, I recommend this video by FelixTechTips
+https://youtu.be/ee80YmiaSVQ
+'''
+
 def selection_sort(lst):
     # iterate through the whole list
     for i in range(0, len(lst)):
